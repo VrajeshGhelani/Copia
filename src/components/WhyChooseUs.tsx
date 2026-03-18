@@ -4,7 +4,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { ShieldCheck, Truck, Droplets, Banknote, Award } from 'lucide-react';
 
-const Card = ({ icon: Icon, title, description, delay = 0 }) => (
+const Card = ({ icon: Icon, title, description, delay = 0 }: { icon: any, title: string, description: string, delay?: number }) => (
     <motion.div
         initial={{ opacity: 0, y: 30 }}
         whileInView={{ opacity: 1, y: 0 }}
