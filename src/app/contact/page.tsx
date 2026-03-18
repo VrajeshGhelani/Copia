@@ -90,7 +90,7 @@ const ContactPage = () => {
                             className="space-y-12"
                         >
                             <div className="space-y-8">
-                                <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight text-gray-900 dark:text-white mb-8 transition-colors duration-700">Let's talk</h2>
+                                <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight text-gray-900 dark:text-white mb-8 transition-colors duration-700">Let&apos;s talk</h2>
                                 <div className="space-y-6">
                                     <div className="flex items-center space-x-6 group">
                                         <div className="w-16 h-16 bg-primary/5 rounded-2xl flex items-center justify-center text-primary group-hover:bg-primary group-hover:text-white transition-all duration-500 shadow-sm group-hover:scale-105">
@@ -130,7 +130,7 @@ const ContactPage = () => {
                                     Quick Support?
                                 </h3>
                                 <p className="text-base md:text-lg text-white/90 leading-relaxed mb-8 pr-8">
-                                    Message us on WhatsApp for instant orders or queries. We're online 24/7.
+                                    Message us on WhatsApp for instant orders or queries. We&apos;re online 24/7.
                                 </p>
                                 <button className="w-full bg-white hover:bg-gray-50 text-primary font-medium py-4 rounded-full flex items-center justify-center gap-3 shadow-lg hover:scale-105 active:scale-95 transition-all text-lg">
                                     WHATSAPP NOW

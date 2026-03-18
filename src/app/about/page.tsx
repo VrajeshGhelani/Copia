@@ -39,7 +39,7 @@ const AboutPage = () => {
                             transition={{ delay: 0.5 }}
                             className="text-base md:text-lg text-gray-600 dark:text-gray-300 leading-relaxed max-w-3xl mx-auto mb-4 transition-colors duration-700"
                         >
-                            Founded with a mission to redefine pure hydration, Copia Water is more than just a brand—it's a commitment to health and excellence.
+                            Founded with a mission to redefine pure hydration, Copia Water is more than just a brand—it&apos;s a commitment to health and excellence.
                         </motion.p>
                     </div>
                 </section>
@@ -91,10 +91,10 @@ const AboutPage = () => {
                             </h2>
                             <div className="space-y-6">
                                 <p className="text-base md:text-lg text-gray-700 dark:text-gray-300 leading-relaxed transition-colors duration-700">
-                                    Copia Water began with a simple but revolutionary idea: that nature's most vital resource deserves the world's most advanced care.
+                                    Copia Water began with a simple but revolutionary idea: that nature&apos;s most vital resource deserves the world&apos;s most advanced care.
                                 </p>
                                 <p className="text-base md:text-lg text-gray-700 dark:text-gray-300 leading-relaxed transition-colors duration-700">
-                                    Our journey has been one of relentless innovation. From multi-stage reverse osmosis to specialized ozone treatment, we ensure that every bottle of Copia Water is more than just water—it's a masterpiece of purity.
+                                    Our journey has been one of relentless innovation. From multi-stage reverse osmosis to specialized ozone treatment, we ensure that every bottle of Copia Water is more than just water—it&apos;s a masterpiece of purity.
                                 </p>
                                 <p className="text-base md:text-lg text-gray-700 dark:text-gray-300 leading-relaxed transition-colors duration-700">
                                     Today, Copia stands as a symbol of trust for millions. Our state-of-the-art bottling facilities are designed to mirror the cleanliness of a laboratory, ensuring zero contamination from source to consumer.
